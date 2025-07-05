@@ -1,4 +1,4 @@
-DisML - Discord HTML Export Tool
+BETA -- DisML - Discord HTML Export Tool
 
 ============================================
 
